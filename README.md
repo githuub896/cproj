@@ -1,4 +1,4 @@
-A simple Makefile for C
+A simple Makefile for C  0000000000
 ====
 practisingproject
 This repository contains a minimal Makefile for building executables and
