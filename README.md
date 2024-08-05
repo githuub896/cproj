@@ -1,4 +1,4 @@
-A simple Makefile for C  cproject 
+A simple Makefile for C  
 ====
 practisingproject
 This repository contains a minimal Makefile for building executables and
